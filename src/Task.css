@@ -1,0 +1,25 @@
+.Task {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+}
+
+.Task span {
+    color: #333;
+    font-size: 16px;
+}
+
+.Task button {
+    background-color: #5c4be6;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 5px 10px;
+}
+
+.Task button:hover {
+    background-color: #4a3de4;
+}
